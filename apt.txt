@@ -1,0 +1,8 @@
+libgdal-dev
+libproj-dev
+libgeos-dev
+libudunits2-dev
+xorg
+libx11-dev
+libglu1-mesa-dev
+libfreetype6-dev
