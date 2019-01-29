@@ -6,9 +6,9 @@ Click the `launch binder` badge above to run the Rayshader package in R right in
 
 ------
 
-***Tyler Morgan-Wall's Rayshader package right in your browser***
+***Tyler Morgan-Wall's Rayshader package working in your browser***
 
-This repository is for running the R-based-based Raysahder package in a browser-based environment provided by [MyBinder.org](https://mybinder.org/).  
+This repository is for running the R-based-based Rayshader package in a browser-based environment provided by [MyBinder.org](https://mybinder.org/).  
 
 Rayshader is an open source R package by Tyler Morgan-Wall for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, overlays, and ambient occlusion. It also includes the ability to export 3D models to a 3D print-ready format, and includes a post-processing depth of field effect for 3D visualizations.
 
