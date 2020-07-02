@@ -28,7 +28,7 @@ Technical Details
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
-HAd to update dependencies in 2020 as seems rayshader now dependent on terrainmeshr and rayimage.
+Updated dependencies in 2020 as seems rayshader now dependent on terrainmeshr and rayimage.
 
 ## Advanced Users
 
