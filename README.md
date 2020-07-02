@@ -26,6 +26,8 @@ Tyler Morgan-Wall's Rayshader package https://www.rayshader.com/ working via the
 Technical Details
 -----------------
 
+**PRESENTLY, INSTALL OF RAYSHADER PACKAGE ISN'T WORKING SINCE CANNOT RUN `library(rayshader)` IN NOTEBOOK.**
+
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
 
