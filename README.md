@@ -26,7 +26,7 @@ Tyler Morgan-Wall's Rayshader package https://www.rayshader.com/ working via the
 Technical Details
 -----------------
 
-**PRESENTLY, INSTALL OF RAYSHADER PACKAGE ISN'T WORKING SINCE CANNOT RUN `library(rayshader)` IN NOTEBOOK.**
+**PRESENTLY, INSTALL OF RAYSHADER PACKAGE ISN'T WORKING SINCE CANNOT RUN `library(rayshader)` IN NOTEBOOK.** `library(bindertools)` works and that is installed via devtools (package [bindertools](https://docs.ropensci.org/bindertools/#installation) isn't needed and only added as a test of devtools), too, and so it isn't that. I added Rcpp install and that removed those errors but for some reason the rayshader install is failing although I never see it fail (missing it in long list?) but says not installed when I try `library(rayshader)` in a notebook.
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
