@@ -1,3 +1,4 @@
+install.packages("Rcpp", repos="https://rcppcore.github.io/drat") # Was seeing Rcpp install now fail and so added this based on https://github.com/RcppCore/Rcpp/issues/1060#issuecomment-604604598
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
