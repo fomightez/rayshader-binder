@@ -6,5 +6,5 @@ install.packages('leaflet')
 install.packages("rgdal")
 install.packages("raster")
 install.packages("rgl")
-install.packages("devtools")
+devtools::install_github("ropenscilabs/bindertools") # Don't need this but want to test devtools installation; install based on https://docs.ropensci.org/bindertools/
 devtools::install_github("tylermorganwall/rayshader")
