@@ -6,3 +6,4 @@ xorg
 libx11-dev
 libglu1-mesa-dev
 libfreetype6-dev
+libavfilter-dev # added based on https://github.com/tylermorganwall/rayshader/issues/47#issuecomment-505574635
