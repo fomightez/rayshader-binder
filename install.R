@@ -1,4 +1,3 @@
-#install.packages("Rcpp", repos="https://rcppcore.github.io/drat") # Was seeing Rcpp install now fail and so added this based on https://github.com/RcppCore/Rcpp/issues/1060#issuecomment-604604598
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
@@ -7,10 +6,9 @@ install.packages('leaflet')
 install.packages("rgdal")
 install.packages("raster")
 install.packages("rgl")
-devtools::install_github("ropenscilabs/bindertools") # Don't need this but want to test devtools installation; install based on https://docs.ropensci.org/bindertools/
 devtools::install_github("tylermorganwall/terrainmeshr")
 install.packages("remotes")
 remotes::install_github("tylermorganwall/rayimage")
 devtools::install_github("tylermorganwall/rayshader")
-# trying install from CRAN instead of github based on https://github.com/tylermorganwall/rayshader/issues/110#issuecomment-627080365
+# seems if install from CRAN instead of github, based on https://github.com/tylermorganwall/rayshader/issues/110#issuecomment-627080365 ,  can leave off terrainmeshr and raymage?
 #install.packages("rayshader") 
