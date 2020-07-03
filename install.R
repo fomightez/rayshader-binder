@@ -6,6 +6,7 @@ install.packages('leaflet')
 install.packages("rgdal")
 install.packages("raster")
 install.packages("rgl")
+install.packages("rglwidget")  # based on https://gist.github.com/rpodcast/1a7552d5c6269d2fe488ef072ce64cfb and hints looks like necessary to display rgl output when `rgl.useNULL=TRUE`
 install.packages("magick")
 devtools::install_github("tylermorganwall/terrainmeshr")
 install.packages("remotes")
