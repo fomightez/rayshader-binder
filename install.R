@@ -14,3 +14,4 @@ remotes::install_github("tylermorganwall/rayimage")
 devtools::install_github("tylermorganwall/rayshader")
 # seems if install from CRAN instead of github, based on https://github.com/tylermorganwall/rayshader/issues/110#issuecomment-627080365 ,  can leave off terrainmeshr and raymage?
 #install.packages("rayshader") 
+devtools::install_github("tylermorganwall/rayrender") #add rayrender if want rayshading output
