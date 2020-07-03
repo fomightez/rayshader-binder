@@ -8,4 +8,4 @@ libglu1-mesa-dev
 libfreetype6-dev
 libavfilter-dev # added based on https://github.com/tylermorganwall/rayshader/issues/47#issuecomment-505574635
 libmagick++-dev # added based on https://github.com/ropensci/magick/issues/198#issuecomment-504039804 when I was trying to add install of magick package
-xvfb # trying to add xvfb use to get rgl to work via myBinder based on https://www.r-bloggers.com/graphical-tools-rgl-on-a-headless-shiny-server/ and that I've used xvfb successfully with Python via MyBinder to render items that usually need X11
+
